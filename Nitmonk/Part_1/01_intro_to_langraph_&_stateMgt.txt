@@ -1,3 +1,4 @@
+What is LangGraph?
 LangGraph is a Python framework that helps us build AI applications that work through connected steps and manage information between those steps.
 
 Step 1: User gives a question.
@@ -25,6 +26,30 @@ Edge	Connection between tasks
 
 Remember these three words. They are very important.
 
+
+=========================================================================================================
+=========================================================================================================
+=========================================================================================================
+
+What is State Management?
+State stores information that different steps in your workflow can access and update.
+
+For example:
+Imagine our AI assistant has this State:
+
+Name   Rahul
+Age    22
+City   Delhi
+
+Now different nodes can read or update this information.
+
+For example:
+- Node 1 reads the user's name.
+- Node 2 reads the user's city.
+- Node 3 updates the user's information.
+
+All these nodes can work with the same State.
+In simple words: State is the shared information or memory used by the workflow.
 
 =========================================================================================================
 =========================================================================================================
