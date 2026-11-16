@@ -1,0 +1,13 @@
+LangGraph is a Python framework that helps us build AI applications that work through connected steps and manage information between those steps.
+
+Step 1: User gives a question.
+Step 2: AI understands it.
+Step 3: AI searches for information.
+Step 4: AI generates an answer.
+
+In simple words: LangGraph helps us build AI applications where different tasks work together in an organized way.
+
+
+=========================================================================================================
+=========================================================================================================
+=========================================================================================================
