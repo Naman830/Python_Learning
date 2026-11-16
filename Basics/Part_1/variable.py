@@ -23,3 +23,13 @@ print(type(a)) # no value write none
 """
 Hello
 """
+
+# Logical Operators
+# We directly write not, or, and 
+
+a= 10
+b = 20
+
+print(not False)
+print("get smaller", a or b)
+print("get greater", a and b)
